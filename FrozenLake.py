@@ -222,10 +222,14 @@ def run_env():
             points +=1
         else:
             print("LOSE")
-        if points == 20:
+        if points == 5:
             break
         print("Total_Score: ",points)
         print("- - - - - - - - - - - - - - - - - -")
+            # Print the Q-table
+        print("Q-table:")
+        print(learner.qtable)
+        
     return rewards, steps, episodes, qtables, all_states, all_actions
 
 
