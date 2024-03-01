@@ -13,7 +13,7 @@ Utilizando la libreria de gymnastic, plantear un env de FrozenLake 4x4 con true 
 2. [2.0 pts.] Task
 
 ### VIDEO:
-[VIDEO](https://youtu.be/S550p6XkYPg)
+[VIDEO](https://youtu.be/WYVbhB3FCz8)
 
 ## Requisitos Previos (Usamos CONDA !! :D)
 
