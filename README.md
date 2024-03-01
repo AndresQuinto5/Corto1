@@ -12,6 +12,9 @@ Utilizando la libreria de gymnastic, plantear un env de FrozenLake 4x4 con true 
 1. [3.0 pts.] Kahoot (0.375 cada pregunta)
 2. [2.0 pts.] Task
 
+### VIDEO:
+[VIDEO](https://youtu.be/S550p6XkYPg)
+
 ## Requisitos Previos (Usamos CONDA !! :D)
 
 - Anaconda o Miniconda instalado en su sistema. Si no tiene Anaconda o Miniconda, puede descargarlo desde [aquí](https://www.anaconda.com/products/individual) o [aquí](https://docs.conda.io/en/latest/miniconda.html), respectivamente.
